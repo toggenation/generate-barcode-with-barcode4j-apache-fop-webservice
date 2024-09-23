@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<fo:layout-master-set>
+<fo:simple-page-master margin-right="0mm" margin-left="0mm" margin-bottom="0mm" margin-top="0mm" page-height="148mm" page-width="105mm" master-name="first">
+<fo:region-body writing-mode="lr-tb"/>
+</fo:simple-page-master>
+</fo:layout-master-set>
+<fo:declarations>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+<dc:title>Document title</dc:title>
+<dc:creator>Document author</dc:creator>
+<dc:description>Document subject</dc:description>
+</rdf:Description>
+<rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="">
+<xmp:CreatorTool>Apache FOP Version 2.6</xmp:CreatorTool>
+</rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+</fo:declarations>
+<fo:page-sequence master-reference="first">
+<fo:flow font-size="12pt" flow-name="xsl-region-body">
+<fo:block-container>
+<fo:block margin-top="2pt" font-size="18pt" font-family="Helvetica" text-align="center">The Toggen Partnership</fo:block>
+<fo:block font-size="11pt" font-family="Helvetica" margin-left="3mm" text-align="left">SSCC</fo:block>
+<fo:block font-size="26pt" font-family="Helvetica" margin-left="3mm" text-align="left">999999999000000245</fo:block>
+<fo:block space-after="8pt" font-size="14pt" font-family="Helvetica" margin-left="3mm" text-align="left">TOGGEN DUNE HARVESTER OIL</fo:block>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="6.7cm"/>
+<fo:table-column column-width="3.2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell>
+<fo:block text-align="start" font-size="11pt">ITEM NO</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												QUANTITY
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start">19999999999762</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="end">48</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="5cm"/>
+<fo:table-column column-width="3.0cm"/>
+<fo:table-column column-width="2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell font-size="11pt">
+<fo:block text-align="start">BEST BEFORE (ddmmyy)</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="center" font-size="11pt">
+												BATCH
+											</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												DC
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start">02.08.22</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="center">212301</fo:block>
+</fo:table-cell>
+<fo:table-cell vertical-align="top">
+<fo:block font-size="11pt" text-align="end">TGN123</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:block padding="0pt" space-after="10pt" space-before="0pt" left="0mm" text-align="center" line-height="1pt">
+<fo:leader leader-length="100%" rule-thickness="1pt" leader-pattern="rule" line-height="1pt"/>
+</fo:block>
+<fo:block text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="021999999999976ð3748ñ1522080210212301">
+<barcode:ean-128>
+<barcode:check-digit-marker>ð</barcode:check-digit-marker>
+<barcode:module-width>0.32mm</barcode:module-width>
+<barcode:template>(02)n13+cd(37)n1-8(15)n6(10)an1-20</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:placement>bottom</barcode:placement>
+<barcode:font-size>10pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+<fo:block space-after="0pt" text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="0099999999900000024ð">
+<barcode:ean-128>
+<barcode:module-width>0.49mm</barcode:module-width>
+<barcode:template>(00)n17+cd</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:font-size>10pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+</fo:block-container>
+<fo:block-container>
+<fo:block margin-top="2pt" font-size="18pt" font-family="Helvetica" text-align="center">The Toggen Partnership</fo:block>
+<fo:block font-size="11pt" font-family="Helvetica" margin-left="3mm" text-align="left">SSCC</fo:block>
+<fo:block font-size="26pt" font-family="Helvetica" margin-left="3mm" text-align="left">999999999000000252</fo:block>
+<fo:block space-after="8pt" font-size="14pt" font-family="Helvetica" margin-left="3mm" text-align="left">TOGGEN GOLD STANDARD 750ML XXX</fo:block>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="6.7cm"/>
+<fo:table-column column-width="3.2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell>
+<fo:block text-align="start" font-size="11pt">ITEM NO</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												QUANTITY
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start">19999999993678</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="end">128</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="5cm"/>
+<fo:table-column column-width="3.0cm"/>
+<fo:table-column column-width="2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell font-size="11pt">
+<fo:block text-align="start">BEST BEFORE (ddmmyy)</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="center" font-size="11pt">
+												BATCH
+											</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												DC
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start">02.08.22</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="center">212301</fo:block>
+</fo:table-cell>
+<fo:table-cell vertical-align="top">
+<fo:block font-size="11pt" text-align="end">TGN123</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:block padding="0pt" space-after="10pt" space-before="0pt" left="0mm" text-align="center" line-height="1pt">
+<fo:leader leader-length="100%" rule-thickness="1pt" leader-pattern="rule" line-height="1pt"/>
+</fo:block>
+<fo:block text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="021999999999367ð37128ñ1522080210212301">
+<barcode:ean-128>
+<barcode:check-digit-marker>ð</barcode:check-digit-marker>
+<barcode:module-width>0.32mm</barcode:module-width>
+<barcode:template>(02)n13+cd(37)n1-8(15)n6(10)an1-20</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:placement>bottom</barcode:placement>
+<barcode:font-size>10pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+<fo:block space-after="0pt" text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="0099999999900000025ð">
+<barcode:ean-128>
+<barcode:module-width>0.49mm</barcode:module-width>
+<barcode:template>(00)n17+cd</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:font-size>10pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+</fo:block-container>
+<fo:block-container>
+<fo:block margin-top="2pt" font-size="18pt" font-family="Helvetica" text-align="center">The Toggen Partnership</fo:block>
+<fo:block font-size="11pt" font-family="Helvetica" margin-left="3mm" text-align="left">SSCC</fo:block>
+<fo:block font-size="26pt" font-family="Helvetica" margin-left="3mm" text-align="left">999999999000000269</fo:block>
+<fo:block space-after="8pt" font-size="14pt" font-family="Helvetica" margin-left="3mm" text-align="left">TOGGEN GOLDEN PEEL OIL 750ML</fo:block>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="6.7cm"/>
+<fo:table-column column-width="3.2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell>
+<fo:block text-align="start" font-size="11pt">ITEM NO</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												QUANTITY
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start">19999999992763</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="end">145</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:table margin-left="1.5mm" table-layout="fixed" width="10cm">
+<fo:table-column column-width="5cm"/>
+<fo:table-column column-width="3.0cm"/>
+<fo:table-column column-width="2cm"/>
+<fo:table-body font-size="10pt" font-weight="normal" font-family="Helvetica">
+<fo:table-row>
+<fo:table-cell font-size="11pt">
+<fo:block text-align="start">BEST BEFORE (ddmmyy)</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="center" font-size="11pt">
+												BATCH
+											</fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block text-align="end" font-size="11pt">
+												DC
+											</fo:block>
+</fo:table-cell>
+</fo:table-row>
+<fo:table-row>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="start" th:text="${model.date}"></fo:block>
+</fo:table-cell>
+<fo:table-cell>
+<fo:block font-size="26pt" text-align="center" th:text="${model.batch}"></fo:block>
+</fo:table-cell>
+<fo:table-cell vertical-align="top">
+<fo:block font-size="11pt" text-align="end">TGN123</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+<fo:block padding="0pt" space-after="10pt" space-before="0pt" left="0mm" text-align="center" line-height="1pt">
+<fo:leader leader-length="100%" rule-thickness="1pt" leader-pattern="rule" line-height="1pt"/>
+</fo:block>
+<fo:block text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode 
+xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="021999999999276ð37145ñ1522080210212301">
+<barcode:ean-128>
+<barcode:check-digit-marker>ð</barcode:check-digit-marker>
+<barcode:module-width>0.32mm</barcode:module-width>
+<barcode:template>(02)n13+cd(37)n1-8(15)n6(10)an1-20</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:placement>bottom</barcode:placement>
+<barcode:font-size>9pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+<fo:block space-after="0pt" text-align="center">
+<fo:instream-foreign-object>
+<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" orientation="0" message="0099999999900000026ð">
+<barcode:ean-128>
+<barcode:module-width>0.49mm</barcode:module-width>
+<barcode:template>(00)n17+cd</barcode:template>
+<barcode:height>36mm</barcode:height>
+<barcode:human-readable>
+<barcode:font-size>10pt</barcode:font-size>
+</barcode:human-readable>
+</barcode:ean-128>
+</barcode:barcode>
+</fo:instream-foreign-object>
+</fo:block>
+</fo:block-container>
+</fo:flow>
+</fo:page-sequence>
+</fo:root>
